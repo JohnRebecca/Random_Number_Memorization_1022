@@ -22,7 +22,7 @@ The game starts by welcoming the user with the name of the game and team name be
 7. After the number is entered and the user presses the “CONFIRM” button the program will check and see if the number entered matches the number displayed
 8. There will be a difficulty setting ranging from Easy, Medium, Hard
 9. There will be a timer to remember each number
-Easy: 15s
-Medium: 10s
-Hard: 7s
+Peaceful: 10s
+Survival: 7s
+Hardcore: 5s
 
