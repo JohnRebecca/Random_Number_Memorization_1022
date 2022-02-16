@@ -1,4 +1,7 @@
 # Random_Number_Memorization_1022
+Team RNG
+
+
 Name: Sharon Sunny
 Email: shar0n3@my.yorku.ca
 Section: Section M - Lab01
