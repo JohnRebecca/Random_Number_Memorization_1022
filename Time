@@ -1,0 +1,23 @@
+
+public class Time {
+
+    public int Time(String diff){
+
+        //parameter is difficulty
+        int time = 0 ;
+
+        if (diff == "Peaceful"){
+            time = 10 ;
+        }
+
+        else if (diff == "Survival"){
+            time = 7 ;
+        }
+
+        else if (diff == "HardCore"){
+            time = 5 ;
+        }
+
+        return time ; // returns amount of time / need to implement countdown from time here or in Main
+    }
+}
