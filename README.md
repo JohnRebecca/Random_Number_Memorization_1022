@@ -6,10 +6,6 @@ Name: Sharon Sunny
 Email: shar0n3@my.yorku.ca
 Section: Section M - Lab01
 
-Name: Hamad Iqbal
-Email: hamadi8@my.yorku.ca
-Section: Section N - Lab01
-
 Name: Rebecca John
 Email: johnreb@my.yorku.ca
 Section: Section N - Lab04
